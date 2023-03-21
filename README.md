@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# Clouddy
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A decentralized cloud storage platform that offer security, quick access and immutable on blockchain.
 
-Try running some of the following tasks:
+* [click Here to see the project live.](https://dapp-cloud.onrender.com/)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+# Local setup
+```npm install``` [root directory]
+```npx hardhat run --network goerli scripts/deploy.js``` [root directory]
+```npm install``` [client directory]
+
